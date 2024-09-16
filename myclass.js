@@ -16,5 +16,7 @@ class Address {
 }
 
 const John = new Person('John Doe',30,1,'Sydney St','NSW',2000);
+const Jane = new Person('Jane Doe',33,10,'Sydney St','NSW',2000);
 
 console.log(John);
+console.log(Jane);
